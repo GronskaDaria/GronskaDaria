@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm , currently a student at Politech University of <br>Gdansk 🎓 and CodeCool 🖥️. My passion lies in both Front-end and<br> Back-end development, and I'm constantly exploring new ways to improve<br>my skills in these areas.<br><br>Outside of coding, I'm an avid enthusiast of yoga and maintaining a healthy<br> lifestyle 🧘‍♂️🧘‍♀️. I believe in the power of collaboration and am eager to work <br>on projects that challenge and inspire me to grow.<br><br>Let's connect and embark on exciting projects together! 🌟
+Hi there! 👋<br><br>I'm Daria Gronska, currently a student at Politech University of <br>Gdansk 🎓. My passion lies in both Front-end and<br> Back-end development, and I'm constantly exploring new ways to improve<br>my skills in these areas.<br><br>Outside of coding, I'm an avid enthusiast of yoga and maintaining a healthy<br> lifestyle 🧘‍♂️🧘‍♀️. I believe in the power of collaboration and am eager to work <br>on projects that challenge and inspire me to grow.<br><br>Let's connect and embark on exciting projects together! 🌟
 
 
 ## 🌐 Socials:
